@@ -44,6 +44,7 @@ Data Generation → Data Preprocessing → EDA → Feature Engineering → ML Mo
 ---
 
 ## 📁 Project Structure
+
 Retail-Sales-Forecasting-Inventory-Optimization/
 │
 ├── data/
