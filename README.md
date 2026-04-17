@@ -42,35 +42,13 @@ This system is applicable to:
 Data Generation → Data Preprocessing → EDA → Feature Engineering → ML Model (Forecasting) → Inventory Optimization → Business Insights
 
 ---
+---
 
+# 📁 Project Structure
 
 ---
 
-## 🚀 Features
-- Synthetic retail data generation
-- Data cleaning and preprocessing pipeline
-- Exploratory Data Analysis (EDA)
-- Sales forecasting using Machine Learning
-- Inventory optimization using business logic
-- Safety stock calculation
-- Reorder point strategy
-- Actual vs predicted visualization
-
----
-
-## 🔄 Workflow
-1. Generate retail dataset
-2. Load and clean data
-3. Perform EDA (graphs & insights)
-4. Train ML model for sales forecasting
-5. Predict future demand
-6. Apply inventory optimization logic
-7. Generate business recommendations
-
----
-📁 Project Structure
----
-
+```text
 Retail-Sales-Forecasting-Inventory-Optimization/
 │
 ├── data/
@@ -94,6 +72,32 @@ Retail-Sales-Forecasting-Inventory-Optimization/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
+
+---
+
+---
+
+## 🚀 Features
+- Synthetic retail data generation
+- Data cleaning and preprocessing pipeline
+- Exploratory Data Analysis (EDA)
+- Sales forecasting using Machine Learning
+- Inventory optimization using business logic
+- Safety stock calculation
+- Reorder point strategy
+- Actual vs predicted visualization
+
+---
+
+## 🔄 Workflow
+1. Generate retail dataset
+2. Load and clean data
+3. Perform EDA (graphs & insights)
+4. Train ML model for sales forecasting
+5. Predict future demand
+6. Apply inventory optimization logic
+7. Generate business recommendations
 
 ---
 ---
