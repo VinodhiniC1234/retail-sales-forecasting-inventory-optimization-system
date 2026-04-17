@@ -53,13 +53,20 @@ Retail-Sales-Forecasting-Inventory-Optimization/
 │   ├── data_preprocessing.py
 │   ├── model_training.py
 │   ├── inventory_optimization.py
+│   ├── eda.py
+│   └── generate_data.py
 │
 ├── images/
-│   ├── sales_trend.png
-│   ├── actual_vs_predicted.png
+│   └── image.png
+│
+├── output/
+│   ├── actual_vs_predicted_sales.png
+│   └── sales_trend_over_time.png
 │
 ├── main.py
 ├── README.md
+├── requirements.txt
+└── .gitignore
 
 ---
 
