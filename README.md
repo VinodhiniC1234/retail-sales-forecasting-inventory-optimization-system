@@ -45,7 +45,14 @@ Data Generation → Data Preprocessing → EDA → Feature Engineering → ML Mo
 
 ## 📁 Project Structure
 
+---
+
+# 📁 Project Structure
+
+---
+
 Retail-Sales-Forecasting-Inventory-Optimization/
+
 │
 ├── data/
 │   └── retail_sales.csv
@@ -69,6 +76,7 @@ Retail-Sales-Forecasting-Inventory-Optimization/
 ├── requirements.txt
 └── .gitignore
 
+---
 ---
 
 ## 🚀 Features
