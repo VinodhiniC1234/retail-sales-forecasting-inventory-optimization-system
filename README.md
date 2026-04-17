@@ -43,40 +43,7 @@ Data Generation → Data Preprocessing → EDA → Feature Engineering → ML Mo
 
 ---
 
-## 📁 Project Structure
 
----
-
-# 📁 Project Structure
-
----
-
-Retail-Sales-Forecasting-Inventory-Optimization/
-
-│
-├── data/
-│   └── retail_sales.csv
-│
-├── src/
-│   ├── data_preprocessing.py
-│   ├── model_training.py
-│   ├── inventory_optimization.py
-│   ├── eda.py
-│   └── generate_data.py
-│
-├── images/
-│   └── image.png
-│
-├── output/
-│   ├── actual_vs_predicted_sales.png
-│   └── sales_trend_over_time.png
-│
-├── main.py
-├── README.md
-├── requirements.txt
-└── .gitignore
-
----
 ---
 
 ## 🚀 Features
@@ -101,7 +68,34 @@ Retail-Sales-Forecasting-Inventory-Optimization/
 7. Generate business recommendations
 
 ---
+📁 Project Structure
+---
 
+Retail-Sales-Forecasting-Inventory-Optimization/
+│
+├── data/
+│   └── retail_sales.csv
+│
+├── src/
+│   ├── data_preprocessing.py
+│   ├── model_training.py
+│   ├── inventory_optimization.py
+│   ├── eda.py
+│   └── generate_data.py
+│
+├── images/
+│   └── image.png
+│
+├── output/
+│   ├── actual_vs_predicted_sales.png
+│   └── sales_trend_over_time.png
+│
+├── main.py
+├── README.md
+├── requirements.txt
+└── .gitignore
+
+---
 ---
 
 ## 🧠 Learning Outcomes
